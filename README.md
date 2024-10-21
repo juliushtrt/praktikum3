@@ -2,11 +2,11 @@
 
 Tugas Pertemuan Ke 6
 
-Nama: M Rafi Al Hakim
+Nama: Julius Hutabarat
 
 Kelas: TI 24 A3
 
-NIM: 312410403
+NIM: 312410429
 
 ## **1. bilanganterbesar.py**
 
