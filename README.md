@@ -2,11 +2,11 @@
 
 Tugas Pertemuan Ke 6
 
-Nama: Arfianda Firsta Satritama
+Nama: M Rafi Al Hakim
 
 Kelas: TI 24 A3
 
-NIM: 312410377
+NIM: 312410403
 
 ## **1. bilanganterbesar.py**
 
